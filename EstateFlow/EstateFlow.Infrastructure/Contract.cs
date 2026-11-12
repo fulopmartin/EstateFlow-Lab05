@@ -1,4 +1,4 @@
-﻿namespace EstateFlow.Domain
+﻿namespace EstateFlow.Server.Domain
 {
     public class Contract
     {
